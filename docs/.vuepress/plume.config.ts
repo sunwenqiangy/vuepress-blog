@@ -21,6 +21,12 @@ export default defineThemeConfig({
     // location: '',
     // organization: '',
   },
+  article: 'note',
+  autoFrontmatter: {
+    title: true,
+    permalink: true,
+    createTime: true,
+  },
 
   navbar,
   notes,
