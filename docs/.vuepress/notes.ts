@@ -34,7 +34,7 @@ const 服务端Note = defineNoteConfig({
 
 const 框架Note = defineNoteConfig({
   dir: '4.框架',
-  link: '/框架',
+  link: '/note',
   sidebar: 'auto',
 })
 
